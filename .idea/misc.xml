@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Development/MenuSlideshow-master/MenuSlideshow2/app/src/main/res/layout/activity_splash.xml" value="0.3625" />
+        <entry key="..\:/Development/MenuSlideshow2/app/src/main/res/drawable/ic_logoimage.xml" value="0.1935" />
+        <entry key="..\:/Development/MenuSlideshow2/app/src/main/res/drawable/ic_logoimage_icon.xml" value="0.1935" />
+        <entry key="..\:/Development/MenuSlideshow2/app/src/main/res/layout/activity_splash.xml" value="0.34271099744245526" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
